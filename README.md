@@ -6,7 +6,7 @@ Employer:
 Subzero
 
 Speciality: 
-Staff Engineer | Embedded Software | Electrical Engineer @ theteslafan.com | Programming, Machinery
+Electrical Engineer | Embedded Software | Manufacturing Engineer | Data Engineer @ theteslafan.com | Programming, Machinery
 
 Goal: 
 Make the best high-quality premium product.
